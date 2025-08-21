@@ -1,0 +1,35 @@
+col 1 = small-cap, low-turnover, broker-sold
+
+col 2 = small-cap, medium-turnover, broker-sold
+
+col 3 = small-cap, high-turnover, broker-sold
+
+col 4 = small-cap, low-turnover, direct-sold
+
+col 5 = small-cap, medium-turnover, direct-sold
+
+col 6 = small-cap, high-turnover, direct-sold
+
+col 7 = medium-cap, low-turnover, broker-sold
+
+col 8 = medium-cap, medium-turnover, broker-sold
+
+col 9 = medium-cap, high-turnover, broker-sold
+
+col 10 = medium-cap, low-turnover, direct-sold
+
+col 11 = medium-cap, medium-turnover, direct-sold
+
+col 12 = medium-cap, high-turnover, direct-sold
+
+col 13 = large-cap, low-turnover, broker-sold
+
+col 14 = large-cap, medium-turnover, broker-sold
+
+col 15 = large-cap p, high-turnover, broker-sold
+
+col 16 = large-cap, low-turnover, direct-sold
+
+col 17 = large-cap, medium-turnover, direct-sold
+
+col 18 = large-cap, high-turnover, direct-sold
